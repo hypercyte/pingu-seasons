@@ -19,11 +19,12 @@ There is **local multiplayer** support (using the same keyboard), but can be pla
 - **WASD** - Player 1 controls.
 - **Arrow keys** - Player 2 controls.
 
-### Obstacles
+### Instructions
 
-- Getting hit by **Sharp Ice** and **Skunks** will damage the player(s).
+- Eat the **fish** to gain energy.
 - **Wood** requires at least **2** units of **combined energy** between both players.
 - **Metal** is similar and requires **4** units.
+- Getting hit by **Sharp Ice** and **Skunks** will damage the player(s).
 - If either player dies, it is game over. (Game closes itself, you will need to re-open to retry.)
 
 ### Objective
