@@ -1,4 +1,4 @@
-# Java project
+# Java game project
 
 This game was made as the final project for my Java programming module in my first year of university. There is lots that could be improved but I'm happy with how this came out, as my first big java project!
 
